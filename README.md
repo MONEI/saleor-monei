@@ -36,7 +36,8 @@ This [Saleor App](https://docs.saleor.io/developer/extending/apps/overview) inte
 
 ### Why MONEI?
 
-- **Multi-acquirer routing** &mdash; intelligent routing across Comercia/CaixaBank, GetNet/Santander, and Shift4/Finaro for optimal authorization rates
+- **Multi-acquirer routing** &mdash; intelligent routing across multiple acquirers for optimal authorization rates
+- **Scheme tokenization** &mdash; network tokens via Visa and Mastercard for higher approval rates and lower fraud
 - **Native Bizum** &mdash; the only Saleor payment app offering direct Bizum acquiring, Spain's dominant mobile payment method (28M+ users)
 - **PCI DSS compliant** &mdash; card data handled via MONEI.js secure iframes, keeping your store out of PCI scope
 - **One integration, multiple methods** &mdash; card, Bizum, Apple Pay, and Google Pay through a single app
